@@ -1,4 +1,4 @@
-Stack in project:
+# Stack in project:
 1. GraphQL
 2. NodeJS
 3. MongoDB
